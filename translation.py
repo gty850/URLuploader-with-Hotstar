@@ -2,7 +2,7 @@ class Translation(object):
 
     START_TEXT = """Hello,
 
-This is a Telegram URL Upload Bot!
+Hi You This is a Telegram URL Upload Bot!
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
@@ -10,7 +10,7 @@ This is a Telegram URL Upload Bot!
 
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+    HELP_USER = """Hai you, I'am a URL Uploader bot..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
